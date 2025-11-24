@@ -2,7 +2,7 @@
 
 	$host="localhost";
 	$user="root";
-	$password="";
+	$password="12345";
 	$db="crud_struct";
 
 	//Representa una conexión entre PHP y una base de datos MySQL.//
